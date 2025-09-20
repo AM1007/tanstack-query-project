@@ -1,0 +1,34 @@
+📄 .gitignore
+📄 .prettierignore
+📄 .prettierrc
+📄 db.json
+📄 eslint.config.js
+📄 index.html
+📄 package-lock.json
+📄 package.json
+📄 postcss.config.js
+📁 public
+  📄 vite.svg
+📄 README.md
+📄 save-structure.cjs
+📁 src
+  📁 app
+    📄 App.tsx
+    📄 index.css
+    📄 main.tsx
+    📄 vite-env.d.ts
+  📁 assets
+    📄 react.svg
+  📁 modules
+    📁 todolist
+      📄 api.ts
+      📄 todo-list.tsx
+      📄 types.ts
+  📁 shared
+    📁 api
+      📄 query-client.ts
+📄 tailwind.config.ts
+📄 tsconfig.app.json
+📄 tsconfig.json
+📄 tsconfig.node.json
+📄 vite.config.ts

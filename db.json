@@ -1,0 +1,204 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Deliver yesterday’s features today",
+      "done": false
+    },
+    {
+      "id": "2",
+      "text": "Do more with less",
+      "done": false
+    },
+    {
+      "id": "3",
+      "text": "Zero bugs, infinite features",
+      "done": false
+    },
+    {
+      "id": "4",
+      "text": "Work smarter, not harder",
+      "done": false
+    },
+    {
+      "id": "5",
+      "text": "Be agile, never tired",
+      "done": false
+    },
+    {
+      "id": "6",
+      "text": "Ship daily, sleep weekly",
+      "done": false
+    },
+    {
+      "id": "7",
+      "text": "Cut costs, boost miracles",
+      "done": false
+    },
+    {
+      "id": "8",
+      "text": "One sprint, ten projects",
+      "done": false
+    },
+    {
+      "id": "9",
+      "text": "Always available, always smiling",
+      "done": false
+    },
+    {
+      "id": "10",
+      "text": "Scale infinitely, instantly, cheaply",
+      "done": false
+    },
+    {
+      "id": "11",
+      "text": "Unlock synergy across departments",
+      "done": false
+    },
+    {
+      "id": "12",
+      "text": "Maximize ROI instantly",
+      "done": false
+    },
+    {
+      "id": "13",
+      "text": "Deliver innovation on demand",
+      "done": false
+    },
+    {
+      "id": "14",
+      "text": "Empower stakeholders with dashboards",
+      "done": false
+    },
+    {
+      "id": "15",
+      "text": "Reach KPIs before deadline",
+      "done": false
+    },
+    {
+      "id": "16",
+      "text": "Achieve exponential growth sustainably",
+      "done": false
+    },
+    {
+      "id": "17",
+      "text": "Leverage AI for everything",
+      "done": false
+    },
+    {
+      "id": "18",
+      "text": "Transform chaos into strategy",
+      "done": false
+    },
+    {
+      "id": "19",
+      "text": "Align vision with budget",
+      "done": false
+    },
+    {
+      "id": "20",
+      "text": "Launch product without specs",
+      "done": false
+    },
+    {
+      "id": "21",
+      "text": "Optimize everything immediately",
+      "done": false
+    },
+    {
+      "id": "22",
+      "text": "Deliver twice with half resources",
+      "done": false
+    },
+    {
+      "id": "23",
+      "text": "Never miss impossible deadline",
+      "done": false
+    },
+    {
+      "id": "24",
+      "text": "Always online, never tired",
+      "done": false
+    },
+    {
+      "id": "25",
+      "text": "Automate creativity effortlessly",
+      "done": false
+    },
+    {
+      "id": "26",
+      "text": "Make clients smile forever",
+      "done": false
+    },
+    {
+      "id": "27",
+      "text": "Launch global in one sprint",
+      "done": false
+    },
+    {
+      "id": "28",
+      "text": "Turn chaos into KPIs",
+      "done": false
+    },
+    {
+      "id": "29",
+      "text": "Reduce costs, increase miracles",
+      "done": false
+    },
+    {
+      "id": "30",
+      "text": "Achieve unicorn status overnight",
+      "done": false
+    },
+    {
+      "id": "31",
+      "text": "Double revenue every week",
+      "done": false
+    },
+    {
+      "id": "32",
+      "text": "Outperform competitors effortlessly",
+      "done": false
+    },
+    {
+      "id": "33",
+      "text": "Meet deadline before assignment",
+      "done": false
+    },
+    {
+      "id": "34",
+      "text": "Zero effort, maximum output",
+      "done": false
+    },
+    {
+      "id": "35",
+      "text": "Scale globally in minutes",
+      "done": false
+    },
+    {
+      "id": "36",
+      "text": "Solve problems before existing",
+      "done": false
+    },
+    {
+      "id": "37",
+      "text": "Turn interns into seniors",
+      "done": false
+    },
+    {
+      "id": "38",
+      "text": "Close deals while sleeping",
+      "done": false
+    },
+    {
+      "id": "39",
+      "text": "Deliver miracles on demand",
+      "done": false
+    },
+    {
+      "id": "40",
+      "text": "Achieve goals without budget",
+      "done": false
+    }
+  ]
+}
